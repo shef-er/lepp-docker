@@ -1,6 +1,6 @@
 # Linux - Nginx - PostgreSQL - PHP environment for Docker
 
-`.docker/postgres/initdb.d` - put shell scripts and sql dumps in this folder to apply them on container start.  
+`.docker/postgres/initdb.d` - put shell scripts and sql dumps into this folder to apply them on container start.  
 
 To start container run in console
 
