@@ -3,7 +3,7 @@
 #### PHP Extensions included
 `curl`, `gd`, `imagick`, `intl`, `json`, `mbstring`, `mysqli`, `opcache`, `pdo_pgsql`, `xdebug`, `xsl`, `zip`
 
-#### Setup
+## Setup
 
 `.docker/postgres/initdb.d` - put shell scripts and sql dumps into this folder to apply them on container start.  
 
