@@ -23,7 +23,6 @@ RUN set -ex \
     && docker-php-ext-install curl \
     && docker-php-ext-install gd \
     && docker-php-ext-install mbstring \
-    && docker-php-ext-install mysqli \
     && docker-php-ext-install json \
     && docker-php-ext-install xsl \
     && docker-php-ext-install intl \
